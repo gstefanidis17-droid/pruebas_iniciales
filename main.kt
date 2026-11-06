@@ -3,5 +3,5 @@ fun main() {
 	println("Mi primera modificación")
  }
 fun subscribe(){
-	print("Subscribete")
+	print("Que paso!! tt")
 }
